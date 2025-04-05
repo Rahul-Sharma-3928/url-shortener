@@ -25,7 +25,7 @@ const Generate = () => {
   };
 
   return (
-    <section className="max-w-full mx-auto h-[80vh] text-center shadow-lg">
+    <section className="max-w-full mx-auto h-[79vh] text-center shadow-lg">
       <form onSubmit={generate}>
         <div className="max-w-lg mx-auto bg-purple-400 rounded m-10 text-white py-10 ">
           <h1 className="text-3xl text-green-400 font-medium">
